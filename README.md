@@ -1,8 +1,9 @@
 # Acknowledgements
 Longhorn Hack for Humanity 2022: This project was submitted to the hackathon, where it earned the Best Human Rights Hack - 1st Place award.
+
 Contributors:
-Aileen Li
-Nirvana Maleki
++ Aileen Li
++ Nirvana Maleki
 
 https://devpost.com/software/ensure-healthcare-mobile-app 
 
