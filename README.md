@@ -11,6 +11,8 @@ https://devpost.com/software/ensure-healthcare-mobile-app
 
 Ensure Healthcare Mobile App is designed to connect uninsured communities and non-native speakers in Texas to vital medical resources. By providing up-to-date information on clinic services across Texas counties, the app aims to break down communication and access barriers, ensuring that everyone can receive the healthcare they need.
 
+Created and developed the healthcare mobile app using FlutterFlow for the front-end, Firestore for the database, and hosted on GitHub. The final presentation of the app was made using Google Slides.
+
 ---
 
 ## Table of Contents
@@ -58,6 +60,7 @@ The Ensure App bridges these gaps by providing accurate and accessible healthcar
 - **Dart & Flutter:** For app development and a smooth, responsive front-end experience.
 - **FlutterFlow:** Utilized for rapid front-end prototyping and design.
 - **HTML & CSS:** Supporting web-based components and styling.
+- **Firebase:** For healthcare moble app database.
 
 ---
 
